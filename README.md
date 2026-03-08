@@ -1,4 +1,4 @@
-# R2GenCMN
+# MOE-RRG
 
 This is the code of Mixture of Experts for Radiology Report Generation .
 
